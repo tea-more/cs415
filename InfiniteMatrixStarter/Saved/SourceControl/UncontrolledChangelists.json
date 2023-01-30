@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HUD.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Coronavius_Coronavirus.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/DM_Enemy.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy1.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy2.uasset",
+				"C:/Projects/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Enemy3.uasset"
+			]
+		}
+	]
+}
