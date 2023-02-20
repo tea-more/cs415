@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/cs415/UnrealLearningKit/Content/UI/HUD.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_MainCharacter.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Robots/Maps_Robots/L5/Map_5-1_RemoteControl.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Robots/Blueprints/Robots/L1_Robots/BPC_Robot_Forward.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Robots/Blueprints/Robots/BPC_Robot_TESTING.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/FirstLevel.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/BouncePad_BP.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/PursuerController.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/LightRay/M_vfx_lightray_01_bright.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Robots/Materials/Widget3DPassThrough_Facing.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Projectile.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/Mesh/SK_Mortar.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Mortar.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BP_Landmine.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/MagicBridge_BP.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/Lever_BP.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/tree_Icosphere4_GeometryCollection.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/Destructor_BP.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/HiddenBouncePad_BP.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Robots/VFX/Bursts/NS_Burst_Simple.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard03.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/UI/Restart.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/Hour_of_Code/Materials/MI_gold_2.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard02.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A2.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Stairs/Material/MI_Kit_Stairs_AGlow.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/Hour_of_Code/Materials/MI_gem.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/UI/GameOver.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/Mesh/Mortar.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/Mortar.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemies/BPC_Robot_Pursuer.uasset",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled1.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled2.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled3.umap",
+				"C:/Projects/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled4.umap"
+			]
+		}
+	]
+}
